@@ -7,7 +7,6 @@ A browser-based virtual music studio. Play drums, piano, and xylophone using you
 - 🎹 **Piano** - Keys: Z, X, C, V, B, N, M, comma
 - 🎼 **Xylophone** - Keys: 1-8
 - ⏺️ **Recording** - Record up to 30 seconds and export as audio
-- 🛸 **Easter egg** - Press 'U' for a surprise!
 
 ## Quick Start
 
