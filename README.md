@@ -36,28 +36,7 @@ Then open http://localhost:8000 in your browser.
 ```bash
 npm install
 npm run dev
-```
-
----
-
-## 🚀 Deploy to GitHub Pages
-
-1. **Push your code to GitHub** (make sure the `docs/` folder is committed)
-
-2. **Go to your repository Settings** → **Pages**
-
-3. **Under "Build and deployment":**
-   - Source: **Deploy from a branch**
-   - Branch: Select your branch (e.g., `main`) and folder: `/docs`
-   - Click **Save**
-
-4. Your site will be live at `https://sarthakparajuly-human.github.io/BrowserBand/`
-
-### Alternative: Using GitHub Actions
-You can also use GitHub Actions for automatic deployment. The `docs/` folder is already built with relative paths (`./`) so it works on any subdirectory.
-
----
-
+-------------------------------------------------
 ## Tech Stack
 - Vite
 - Tone.js (Web Audio)
