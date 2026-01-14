@@ -52,7 +52,7 @@ npm run dev
    - Branch: Select your branch (e.g., `main`) and folder: `/docs`
    - Click **Save**
 
-4. Your site will be live at `https://<username>.github.io/<repo-name>/`
+4. Your site will be live at `https://sarthakparajuly-human.github.io/BrowserBand/`
 
 ### Alternative: Using GitHub Actions
 You can also use GitHub Actions for automatic deployment. The `docs/` folder is already built with relative paths (`./`) so it works on any subdirectory.
